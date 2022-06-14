@@ -1,0 +1,10 @@
+.ds-search-input {
+  width: 25%;
+  height: 45px;
+  border-radius: 25px;
+  border: none;
+  outline: none;
+  background: #ebebeb url('/public/assets/search_icon.webp') no-repeat 20px 13px;
+  padding-left: 55px;
+  margin-top: 45px;
+}

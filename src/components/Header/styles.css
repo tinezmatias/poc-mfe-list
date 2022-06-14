@@ -1,0 +1,20 @@
+.ds-header-bg {
+  width: 100vw;
+  background-image: url('/public/assets/cover.webp');
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.ds-header-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 700px;
+  width: 100%;
+  background-color: rgba(1, 1, 1, 0.5);
+}

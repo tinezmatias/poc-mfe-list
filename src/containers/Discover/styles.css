@@ -1,0 +1,13 @@
+.ds-discover-container {
+  width: 100vw;
+  min-height: 100vh;
+}
+
+.ds-discover-content-container {
+  margin: 3% auto;
+  justify-content: center;
+  align-items: flex-start;
+  display: flex;
+  max-width: 1000px;
+  min-height: 1100px;
+}
